@@ -1,12 +1,9 @@
 ---
 layout: default
-title: Index
+title: Welcome to My Personal Site
 ---
-
-# Welcome to My Personal Site
-
 ## Introduction
-Hello, my name is Ville-Pekka Alavuotunki and I'm second year ICT Engineering student in Oulu University of applied sciences. 
+My name is Ville-Pekka Alavuotunki and I'm second year ICT Engineering student in Oulu University of applied sciences. 
 I'm passionate about technology and building things, be it a software or a house. Maybe I can combine these two in the future?
 
 ## About Me
@@ -21,7 +18,7 @@ Here are some of the projects I've been working on:
 **Description:** This was the first applied information technology project in Oulu University of Applied Science. Rection game is an arduino based game written in C++. Project was done with group of four students.
 
 **Technologies Used:** `Arduino`, `C++`, `Electronics`
-![Project Screenshot](https://private-user-images.githubusercontent.com/184358285/376943587-60c151c1-cb1d-4948-8b73-1c4cf9a40512.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMxNDcxMzIsIm5iZiI6MTc0MzE0NjgzMiwicGF0aCI6Ii8xODQzNTgyODUvMzc2OTQzNTg3LTYwYzE1MWMxLWNiMWQtNDk0OC04YjczLTFjNGNmOWE0MDUxMi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyOFQwNzI3MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZTAxN2ExOTY5MzQ4OGY3MWZjYmQ0MmQ3Yjc0ZWJiODEwN2VkZGJkZTdmYTVkZmRhOWVkY2U4ZmNmNTI2NDBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5ybPGSuD7VlI9qwUCfy3IIZA9Wpo62n5VEuZi10Gkhw)
+![Project Screenshot](images/arduino-spede.png)
 [[Project Link](https://github.com/alavuvi/Arduino-ReactionGame)]
 
 ### ATM-Simulator Project
