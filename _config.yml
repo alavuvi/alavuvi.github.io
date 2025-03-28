@@ -1,0 +1,10 @@
+title: Ville-Pekka Alavuotunki
+description: Personal website and portfolio
+url: "https://alavuvi.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
