@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: [https://github.com/alavuvi/alavuvi.github.io]
+source: [E:\codes\alavuvi.github.io\alavuvi.github.io]
 incremental: false
 highlighter: rouge
 gist:
