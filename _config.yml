@@ -1,10 +1,15 @@
-lsi: false
-safe: true
-source: [E:\codes\alavuvi.github.io\alavuvi.github.io]
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+source:
+  branch: main
+  path: /
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+url: https://alavuvi.github.io/
+
+title: My GitHub Pages Site
+description: This is my awesome GitHub Pages site.
+author: Your Name
