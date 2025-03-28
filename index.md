@@ -29,4 +29,7 @@ Here are some of the projects I've been working on:
 [[Project Link](https://github.com/alavuvi/atm-simulator-project)]
 
 ## Favorite Music
-> Opeth, Steven Wilson, Perturbator, Gunship, Cult of Luna
+> Opeth, Cult of Luna, Steven Wilson, Perturbator, Gunship, Röyksopp, Porcupine Tree, Rammstein and many more. 
+
+### My Spotify Profile
+You can follow my music journey on [Spotify](https://open.spotify.com/user/vial).
