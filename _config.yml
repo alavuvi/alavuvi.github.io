@@ -1,15 +1,3 @@
-source:
-  branch: main
-  path: ./index.md
-
-theme: minima
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-
-url: https://alavuvi.github.io/
-
-title: My GitHub Pages Site
-description: This is my awesome GitHub Pages site.
-author: Your Name
+theme: jekyll-theme-minimal
+title: Ville-Pekka's Github Page
+description: Just somethings about me.
